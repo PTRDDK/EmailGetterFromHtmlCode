@@ -1,0 +1,9 @@
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\bin\Debug\EmailGetterFromWebPage.exe.config
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\bin\Debug\EmailGetterFromWebPage.exe
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\bin\Debug\EmailGetterFromWebPage.pdb
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\obj\Debug\EmailGetterFromWebPage.csprojResolveAssemblyReference.cache
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\obj\Debug\EmailGetterFromWebPage.Form1.resources
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\obj\Debug\EmailGetterFromWebPage.Properties.Resources.resources
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\obj\Debug\EmailGetterFromWebPage.csproj.GenerateResource.Cache
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\obj\Debug\EmailGetterFromWebPage.exe
+g:\users\piotrek\documents\visual studio 2017\Projects\EmailGetterFromWebPage\EmailGetterFromWebPage\obj\Debug\EmailGetterFromWebPage.pdb
